@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://EdwardxJ17.github.io/caihanlin.jpg" class="floatpic" width="360" height="480">
+<img src="https://EdwardxJ17.github.io/EdwardJi.jpg" class="floatpic" width="360" height="480">
 
 Here is **Xiang Ji (Edward, 吉祥)**.
 
